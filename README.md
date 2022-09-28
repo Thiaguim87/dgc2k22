@@ -1,5 +1,12 @@
 <h1> Desafio Global da Felicidade </h1>
 
+<p> Notas: </p>
+
+<ul>
+  <li> Lembrar de testar diferentes valors no forcamotor(), Deus nos ajude com esse motor direito </li> 
+
+</ul>
+
 <p> Sugestões de nome: </p>
 
 <ul>
