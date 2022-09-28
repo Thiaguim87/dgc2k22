@@ -3,7 +3,7 @@
 <p> Notas: </p>
 
 <ul>
-  <li> Lembrar de testar diferentes valors no forcamotor(), Deus nos ajude com esse motor direito </li> 
+  <li> Lembrar de testar diferentes valors no forcamotor(), Deus nos ajude com esse motor lerdo </li> 
 
 </ul>
 
