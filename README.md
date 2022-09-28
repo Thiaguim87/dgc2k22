@@ -11,5 +11,7 @@
 
 <ul>
   <li> (28/09 19:26) - O código que a gnt usou hj de tarde tem um monte de coisa que não usamos, recriei e deixei o mais mínimo possível no arquivo roboCarinhoso/roboCarinhoso.ino </li>
+  
+  <li> (28/09 20:03) - Criei outro código com mais coisas, porém mais chance de quebrar, testar junto dos outros -> roboBDSM/roboBdsm.ino</li>
 
 </ul>
